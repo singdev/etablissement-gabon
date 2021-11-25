@@ -632,5 +632,53 @@
     "nom": "COLLEGE LA VISION MBIGOU",
     "ville": "Mbigou",
     "province": "4"
+  },
+  {
+    "id": "107",
+    "nom": "LYCEE E. MOSSOT MOABI",
+    "ville": "Moabi",
+    "province": "5"
+  },
+  {
+    "id": "108",
+    "nom": "LYCEE G.N. BOULINGUI TCHIBANGA",
+    "ville": "Tchibanga",
+    "province": "5"
+  },
+  {
+    "id": "109",
+    "nom": "LYCEE J.B. MOANDAT MAYUMBA",
+    "ville": "Mayumba",
+    "province": "5"
+  },
+  {
+    "id": "110",
+    "nom": "LYCÉE TECHNIQUE ALEXANDRE BIANGUE",
+    "ville": "Tchibanga",
+    "province": "5"
+  },
+  {
+    "id": "111",
+    "nom": "CES KOUMBA NZIENGUI TCHIBANGA",
+    "ville": "Tchibanga",
+    "province": "5"
+  },
+  {
+    "id": "112",
+    "nom": "CES DE MABANDA",
+    "ville": "Mabanda",
+    "province": "5"
+  },
+  {
+    "id": "113",
+    "nom": "COLLEGE HORIZONS TCHIBANGA",
+    "ville": "Tchibanga",
+    "province": "5"
+  },
+  {
+    "id": "114",
+    "nom": "COLLEGE JEAN-PAUL MBADINGA-BOUKAT",
+    "ville": "Tchibanga",
+    "province": "5"
   }
 ]
