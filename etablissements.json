@@ -10,5 +10,366 @@
     "nom": "College Notre dame de Quaben",
     "ville": "Libreville",
     "province": "1"
+  },
+  {
+    "id": "3",
+    "nom": "Lycee DIBA DIBA",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "4",
+    "nom": "LYCEE D’EXCELLENCE D’OWENDO",
+    "ville": "Owendo",
+    "province": "1"
+  },
+  {
+    "id": "5",
+    "nom": "LYCEE ET COLLEGE GEORGE MABIGNATH",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "6",
+    "nom": "LYCEE M. NDONG BYE DE KANGO",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "7",
+    "nom": "LYCEE NELSON MANDELA",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "8",
+    "nom": "LYCÉE JEAN HILAIRE AUBAME",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "9",
+    "nom": "LYCEE J.B. OBIANG ETOUGHE",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "10",
+    "nom": "LYCEE LUBIN MARTIAL NTOUTOUME OBAME DE NTOUM",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "11",
+    "nom": "LYCEE MONTALIER",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "12",
+    "nom": "LYCEE PAUL EMANE EYEGHE",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "13",
+    "nom": "LYCEE PAUL INDJENDJET GONDJOUT",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "14",
+    "nom": "LYCEE PUBLIC D’AGONDJE",
+    "ville": "Akanda",
+    "province": "1"
+  },
+  {
+    "id": "15",
+    "nom": "LYCEE PUBLIC DE BIKELE",
+    "ville": "Libreville",
+    "province": "1"
   }
+  ,
+  {
+    "id": "16",
+    "nom": "LYCEE TECHNIQUE DE NTOUM",
+    "ville": "Ntoum",
+    "province": "1"
+  },
+  {
+    "id": "17",
+    "nom": "LYCEE TECHNIQUE OMAR BONGO",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "18",
+    "nom": "LYCEE BAKOUKOU BA MOUIDY",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "19",
+    "nom": "LYCEE BESSIEUX",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "20",
+    "nom": "LYCEE ALBERT CAMUS",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "21",
+    "nom": "LYCEE ALBERT SCHWEITZER",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "22",
+    "nom": "LYCEE LES ARCHANGES",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "23",
+    "nom": "LYCEE AWASSI",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "24",
+    "nom": "LYCEE BLAISE PASCAL",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "25",
+    "nom": "LYCÉE COLONEL JEAN-BAPTISTE OSSIESSE",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "26",
+    "nom": "LYCEE DE L’AMITIE",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "27",
+    "nom": "LYCEE MICHEL DIRAT",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "28",
+    "nom": "LYCEE MICHEL MONTAIGNE",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "29",
+    "nom": "LYCEE DJOUE DABANY",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "30",
+    "nom": "LYCEE INTERNATIONAL BERTHE ET JEAN",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "31",
+    "nom": "LYCEE MBELE",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "32",
+    "nom": "LYCEE MOHAMED ARISSANI",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "33",
+    "nom": "LYCÉE PIERRE CORNEILLE",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "34",
+    "nom": "LYCEE RUBAN VERT",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "35",
+    "nom": "LYCEE SAINT ESPRIT",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "36",
+    "nom": "LYCEE SAINTE MARIE",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "37",
+    "nom": "LYCEE VINCENT DE PAUL NYONDA",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "38",
+    "nom": "CES ALENAKIRI d’OWENDO",
+    "ville": "Owendo",
+    "province": "1"
+  },
+  {
+    "id": "39",
+    "nom": "CES AKEBE-VILLE ",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "40",
+    "nom": "CES ANDRE GUSTAVE ANGUILE  AHOUNGOU",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "41",
+    "nom": "CES ANHE MBA",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "42",
+    "nom": "CES AVORBAM D’AKANDA",
+    "ville": "Akanda",
+    "province": "1"
+  },
+  {
+    "id": "43",
+    "nom": "CES BA OUMAR",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "44",
+    "nom": "CES GEORGES MABIGNATH",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "45",
+    "nom": "CES J.H.AEYEGHE",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "46",
+    "nom": "CES LEON MBA 1",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "47",
+    "nom": "CES LEON MBA 2",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "48",
+    "nom": "CES LOUIS BIGMANN",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "49",
+    "nom": "CES MIKOLONGO",
+    "ville": "Akanda",
+    "province": "1"
+  },
+  {
+    "id": "50",
+    "nom": "CES OLIVIER AMBAYE",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "51",
+    "nom": "CES PASCAL NZE de COCOBEACH",
+    "ville": "Cocobeach",
+    "province": "1"
+  },
+  {
+    "id": "52",
+    "nom": "CES RAYMOND BOUKAT de MINDOUBE",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "53",
+    "nom": "CES BATRAVEA",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "54",
+    "nom": "CES  DU CENTRE ECOLE PILOTE",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "55",
+    "nom": "CALAZANS",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "56",
+    "nom": "COLLEGE BESSIEUX",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "57",
+    "nom": "COLLEGE NOTRE DAME DE QUABEN",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "58",
+    "nom": "COLLEGE SAINT JEAN MARIE VIANNEY",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "59",
+    "nom": "INSTITUT IMMACULEE CONCEPTION",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "60",
+    "nom": "COLLEGE D’AKEBE",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "61",
+    "nom": "COLLEGE DE BARAKA",
+    "ville": "Libreville",
+    "province": "1"
+  },
+  {
+    "id": "62",
+    "nom": "COLLEGE NANG ESSONO",
+    "ville": "Libreville",
+    "province": "1"
+  },
 ]
