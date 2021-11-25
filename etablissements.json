@@ -490,5 +490,40 @@
     "nom": "IAES FRANCEVILLE",
     "ville": "Franceville",
     "province": "2"
+  },  {
+    "id": "83",
+    "nom": "LYCEE CHARLES MEFANE LAMBARENE",
+    "ville": "Lambarene",
+    "province": "3"
+  },
+  {
+    "id": "84",
+    "nom": "LYCEE FRANCOIS MEYE NDJOLE",
+    "ville": "Ndjole",
+    "province": "3"
+  },
+  {
+    "id": "85",
+    "nom": "CES L. MBAMAKOUE MAKOUKE",
+    "ville": "Lambarene",
+    "province": "3"
+  },
+  {
+    "id": "86",
+    "nom": "CES A.G MOUDJECKOU LAMBARENE",
+    "ville": "Lambarene",
+    "province": "3"
+  },
+  {
+    "id": "87",
+    "nom": "COLLEGE ADIWA LAMBARENE",
+    "ville": "Lambarene",
+    "province": "3"
+  },
+  {
+    "id": "88",
+    "nom": "COLLEGE FANGUINOVENY LAMBARENE",
+    "ville": "Lambarene",
+    "province": "3"
   },
 ]
