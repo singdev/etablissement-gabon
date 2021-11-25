@@ -371,5 +371,124 @@
     "nom": "COLLEGE NANG ESSONO",
     "ville": "Libreville",
     "province": "1"
+  },  {
+    "id": "63",
+    "nom": "LYCEE TOUSSAINT PITTY AKIENI ",
+    "ville": "Akieni",
+    "province": "2"
+  },
+  {
+    "id": "64",
+    "nom": "LYCEE D’EXCELLENCE DE FRANCEVILLE",
+    "ville": "Franceville",
+    "province": "2"
+  },
+  {
+    "id": "65",
+    "nom": "LYCEE E.M. AMOGHO FRANCEVILLE",
+    "ville": "Franceville",
+    "province": "1"
+  },
+  {
+    "id": "66",
+    "nom": "LYCEE HENRI SYLVOZ MOANDA",
+    "ville": "Moanda",
+    "province": "2"
+  },
+  {
+    "id": "67",
+    "nom": "LYCEE R. LANDJI MOANDA",
+    "ville": "Moanda",
+    "province": "2"
+  },
+  {
+    "id": "68",
+    "nom": "LYCEE LUC OKENKALI OKONDJA",
+    "ville": "Okondja",
+    "province": "2"
+  },
+  {
+    "id": "69",
+    "nom": "LYCEE TECHNIQUE AGATHE OBENDZE",
+    "ville": "Franceville",
+    "province": "2"
+  },
+  {
+    "id": "70",
+    "nom": "LYCEE SAINT DOMINIQUE MOANDA",
+    "ville": "Moanda",
+    "province": "2"
+  },
+  {
+    "id": "71",
+    "nom": "CES BRUNO BOKOKO MOUNANA",
+    "ville": "Mounana",
+    "province": "2"
+  },
+  {
+    "id": "72",
+    "nom": "CES E. KAKOGHO LECONI",
+    "ville": "Leconi",
+    "province": "2"
+  },
+  {
+    "id": "73",
+    "nom": "CES LUCIEN KOUNA BONGOVILLE",
+    "ville": "Bongoville",
+    "province": "2"
+  },
+  {
+    "id": "74",
+    "nom": "CES MAMADOU LEWO FRANCEVILLE",
+    "ville": "Franceville",
+    "province": "2"
+  },
+  {
+    "id": "75",
+    "nom": "CES MIKOTO NGOUONI",
+    "ville": "Ngouoni",
+    "province": "2"
+  },
+  {
+    "id": "76",
+    "nom": "CES OUELE de SUCAF",
+    "ville": "Franceville",
+    "province": "2"
+  },
+  {
+    "id": "77",
+    "nom": "CES P. OUTOU B. BOUMANGO",
+    "ville": "Boumango",
+    "province": "2"
+  },
+  {
+    "id": "78",
+    "nom": "CES ZACHARIE MAIKA BAKOUMBA",
+    "ville": "Bakoumba",
+    "province": "2"
+  },
+  {
+    "id": "79",
+    "nom": "CES JEAN JEROME ADAM FRANCEVILLE",
+    "ville": "Franceville",
+    "province": "2"
+  },
+  {
+    "id": "80",
+    "nom": "COLLEGE ROSE MASSOMBO MOANDA",
+    "ville": "Moanda",
+    "province": "2"
+  },
+  {
+    "id": "81",
+    "nom": "COLLEGE EVANGELIQUE FRANCEVILLE",
+    "ville": "Franceville",
+    "province": "2"
+  },
+  {
+    "id": "82",
+    "nom": "IAES FRANCEVILLE",
+    "ville": "Franceville",
+    "province": "2"
   },
 ]
